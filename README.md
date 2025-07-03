@@ -1,6 +1,6 @@
 # Cat On Tree
 
-Рус | [Eng](resources/README_Eng.md)
+Рус | [Eng](Resources/README_Eng.md)
 
 **Ссылка на игру:** 
 
