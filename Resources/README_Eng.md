@@ -6,25 +6,34 @@
 
 ## **About the project**
 
-**Title:** ==Cat On Tree== 
+### **Title:** Cat On Tree
 
 A VR puzzle game where the goal is to rescue a cat from a tree. To do this, the player must find items on the location and figure out how and in what order to use them to complete the task. The game features three different endings for saving the cat. The events take place in a countryside place, where the player must explore a two-story house and the surrounding area to find the necessary items. If needed, pressing button **A** on the controller will see hints.  
 
 ## **Controls:**  
 
 ### **VR:**  
-**A** --- Show hints  
-**Joysticks** --- Movement  
-**Grip button** --- Pick up an item  
-**Trigger button** --- Use an item  
+- **A** --- Show hints  
+- **Joysticks** --- Movement  
+- **Grip button** --- Pick up an item  
+- **Trigger button** --- Use an item  
 
 ### **Keyboard:**  
-**R** --- Restart the game  
-**/** and **+** --- Increase graphics quality  
-**/** and **-** --- Decrease graphics quality  
-**/** and **0** --- Reset graphics quality
+- **R** --- Restart the game  
+- **/** and **+** --- Increase graphics quality  
+- **/** and **-** --- Decrease graphics quality  
+- **/** and **0** --- Reset graphics quality
 
-**Screenshots from the game**:
+## Technical Resources:
+     
+- Engine: **Unity 6000.0.32f1**;
+- VR Platform: **OpenXR**;
+- **Blender**;
+- **GitHub**;
+- **JetBrains Rider**.
+
+
+### **Screenshots from the game**:
 
 
 <div align="center">
