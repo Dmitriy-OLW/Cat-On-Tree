@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.URG-P.M.R.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\#Game_Projects\#Dev_Projects\#UNREAL REALITY\PROTOCOL MEMORY REBOOT\URG - P.M.R\URG-P.M.R\.idea\.idea.URG-P.M.R\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
