@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 1aa8af3daa9dc2645b23f99cfe39b00a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_Cat
+    100002: Cat_fat
+    100004: claw_b.L
+    100006: claw_b.R
+    100008: claw_f.L
+    100010: claw_f.R
+    100012: ear_1.L
+    100014: ear_1.R
+    100016: eyelid.L
+    100018: eyelid.R
+    100020: foot_b.L
+    100022: foot_b.R
+    100024: foot_f.L
+    100026: foot_f.R
+    100028: head
+    100030: Helper_claw_b.L
+    100032: Helper_claw_b.R
+    100034: Helper_foot_f.L
+    100036: Helper_foot_f.R
+    100038: hip_b.L
+    100040: hip_b.R
+    100042: hip_f.L
+    100044: hip_f.R
+    100046: leg_b.L
+    100048: leg_b.R
+    100050: leg_f.L
+    100052: leg_f.R
+    100054: mouth
+    100056: neck
+    100058: root_bone
+    100060: shoulder_blade.L
+    100062: shoulder_blade.R
+    100064: spine_02
+    100066: spine_03
+    100068: spine_04
+    100070: spine_05
+    100072: Spine_base
+    100074: tail_01
+    100076: tail_02
+    100078: tail_03
+    100080: tail_04
+    100082: tail_05
+    100084: tail_06
+    100086: tongue_01
+    100088: tongue_02
+    100090: tongue_03
+    100092: //RootNode
+    400000: Arm_Cat
+    400002: Cat_fat
+    400004: claw_b.L
+    400006: claw_b.R
+    400008: claw_f.L
+    400010: claw_f.R
+    400012: ear_1.L
+    400014: ear_1.R
+    400016: eyelid.L
+    400018: eyelid.R
+    400020: foot_b.L
+    400022: foot_b.R
+    400024: foot_f.L
+    400026: foot_f.R
+    400028: head
+    400030: Helper_claw_b.L
+    400032: Helper_claw_b.R
+    400034: Helper_foot_f.L
+    400036: Helper_foot_f.R
+    400038: hip_b.L
+    400040: hip_b.R
+    400042: hip_f.L
+    400044: hip_f.R
+    400046: leg_b.L
+    400048: leg_b.R
+    400050: leg_f.L
+    400052: leg_f.R
+    400054: mouth
+    400056: neck
+    400058: root_bone
+    400060: shoulder_blade.L
+    400062: shoulder_blade.R
+    400064: spine_02
+    400066: spine_03
+    400068: spine_04
+    400070: spine_05
+    400072: Spine_base
+    400074: tail_01
+    400076: tail_02
+    400078: tail_03
+    400080: tail_04
+    400082: tail_05
+    400084: tail_06
+    400086: tongue_01
+    400088: tongue_02
+    400090: tongue_03
+    400092: //RootNode
+    2100000: Cat_color
+    4300000: Cat_fat
+    9500000: //RootNode
+    13700000: Cat_fat
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_color
+    second: {fileID: 2100000, guid: a028ee2b688ae11489c246bb186aa14a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root_bone
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
