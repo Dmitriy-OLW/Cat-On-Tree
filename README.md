@@ -12,17 +12,48 @@
 
 ## Управление:
 
-### VR:
-- **A** --- показать подсказки
-- **Джойстики** --- перемещение
-- **Кнопка захвата** --- взятие предмета в руки
-- **Кнопка тригер** --- использование предмета
-
-### Клавиатура:
-- **R** --- перезапуск игры
-- **/ и +** --- увеличить качество графики
-- **/ и -** --- уменьшить качество графики
-- **/ и 0** --- сьросить качество графики
+<table border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; font-size: 1.2em;"><strong>VR:</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A</strong></td>
+      <td>показать подсказки</td>
+    </tr>
+    <tr>
+      <td><strong>Джойстики</strong></td>
+      <td>перемещение</td>
+    </tr>
+    <tr>
+      <td><strong>Кнопка захвата</strong></td>
+      <td>взятие предмета в руки</td>
+    </tr>
+    <tr>
+      <td><strong>Кнопка триггер</strong></td>
+      <td>использование предмета</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; font-size: 1.2em;"> <strong>Клавиатура:</strong></td>
+    </tr>
+    <tr>
+      <td><strong>R</strong></td>
+      <td>перезапуск игры</td>
+    </tr>
+    <tr>
+      <td><strong>/ и +</strong></td>
+      <td>увеличить качество графики</td>
+    </tr>
+    <tr>
+      <td><strong>/ и -</strong></td>
+      <td>уменьшить качество графики</td>
+    </tr>
+    <tr>
+      <td><strong>/ и 0</strong></td>
+      <td>сбросить качество графики</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Технические ресурсы:
      
