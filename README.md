@@ -2,7 +2,7 @@
 
 Рус | [Eng](Resources/README_Eng.md)
 
-**Ссылка на игру:** 
+**Ссылка на игру:** https://dmitriy-olw.itch.io/cat-on-tree
 
 ## **О проекте**
 
