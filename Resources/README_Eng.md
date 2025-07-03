@@ -12,17 +12,48 @@ A VR puzzle game where the goal is to rescue a cat from a tree. To do this, the 
 
 ## **Controls:**  
 
-### **VR:**  
-- **A** --- Show hints  
-- **Joysticks** --- Movement  
-- **Grip button** --- Pick up an item  
-- **Trigger button** --- Use an item  
-
-### **Keyboard:**  
-- **R** --- Restart the game  
-- **/** and **+** --- Increase graphics quality  
-- **/** and **-** --- Decrease graphics quality  
-- **/** and **0** --- Reset graphics quality
+<table border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; font-size: 1.2em;"><strong>VR:</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A</strong></td>
+      <td>Show hints</td>
+    </tr>
+    <tr>
+      <td><strong>Joysticks</strong></td>
+      <td>Movement</td>
+    </tr>
+    <tr>
+      <td><strong>Grip button</strong></td>
+      <td>Pick up an item</td>
+    </tr>
+    <tr>
+      <td><strong>Trigger button</strong></td>
+      <td>Use an item</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; font-size: 1.2em;"><strong>Keyboard:</strong></td>
+    </tr>
+    <tr>
+      <td><strong>R</strong></td>
+      <td>Restart the game</td>
+    </tr>
+    <tr>
+      <td><strong>/ and +</strong></td>
+      <td>Increase graphics quality</td>
+    </tr>
+    <tr>
+      <td><strong>/ and -</strong></td>
+      <td>Decrease graphics quality</td>
+    </tr>
+    <tr>
+      <td><strong>/ and 0</strong></td>
+      <td>Reset graphics quality</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Technical Resources:
      
